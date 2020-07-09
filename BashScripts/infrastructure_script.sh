@@ -1,4 +1,4 @@
-#teradata script
+#Infrastructure script
 ## Created by Matt Hicks
 ## 2017 mattehicks@gmail.com
 
